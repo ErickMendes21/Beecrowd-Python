@@ -1,4 +1,5 @@
 *Programming Logic Exercises in Python*
+
 This repository contains solutions to various programming logic exercises using the Python language. All exercises were taken from the Beecrowd platform, which provides a wide range of challenges to improve algorithmic thinking and coding skills.
 
 **About**
