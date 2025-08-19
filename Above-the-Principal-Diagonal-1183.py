@@ -14,8 +14,3 @@ if O == 'S':
 else:
     R = S/cont
     print(f"{R:.1f}")
-
-# for i in range(0, 12):
-#     for j in range(0, 12):
-#         print(M[i][j], end=' ')
-#     print()
